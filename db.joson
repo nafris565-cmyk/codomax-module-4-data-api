@@ -1,0 +1,14 @@
+{
+  "sales": [
+    {"id": 1, "product": "Laptop", "category": "Electronics", "price": 1200, "quantity": 5, "date": "2025-05-01"},
+    {"id": 2, "product": "Mobile", "category": "Electronics", "price": 800, "quantity": 10, "date": "2025-05-02"},
+    {"id": 3, "product": "Shirt", "category": "Fashion", "price": 40, "quantity": 20, "date": "2025-05-03"}
+  ],
+  "analytics": {
+    "total_revenue": 14800,
+    "by_category": [
+      {"category": "Electronics", "revenue": 14000},
+      {"category": "Fashion", "revenue": 800}
+    ]
+  }
+}
